@@ -1,2 +1,2 @@
-name = "Bart"
-print("my name is " + name )
+name = "DI"
+print("my name is {}".format(name))
