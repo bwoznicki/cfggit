@@ -1,2 +1,3 @@
-name = "700"
+
+name = "Name"
 print("my name is " + name )
